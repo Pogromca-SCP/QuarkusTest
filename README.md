@@ -1,0 +1,2 @@
+# QuarkusTest
+ Small quarkus project.
